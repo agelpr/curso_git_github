@@ -1,3 +1,0 @@
-Hola esto es una prueba que se hace a las 06:06p.m
-Se añade linea de texto 06:48p.m.
-Se añade tercera linea para probar pull al origin

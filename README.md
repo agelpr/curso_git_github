@@ -1,3 +1,2 @@
-# curso_git_github
-Este es un repositorio de prueba
-Modificacion del readme para hacer pruebas de pull o push
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
